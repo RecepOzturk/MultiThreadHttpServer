@@ -14,7 +14,11 @@ Also, it listen the port always. It means living server.
 It was defined 8080 port initially, you can change when you want.
 
 
+![screenshot1](https://user-images.githubusercontent.com/19827096/50401391-42989080-079f-11e9-8eee-28704b8806b5.JPG)
 
+![screenshot2](https://user-images.githubusercontent.com/19827096/50401395-462c1780-079f-11e9-98c9-8746034fa1c8.JPG)
+
+![screenshot3](https://user-images.githubusercontent.com/19827096/50401396-49270800-079f-11e9-89f9-a34732bbde3a.JPG)
 
 
 
